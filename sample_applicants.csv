@@ -1,0 +1,4 @@
+last_name,first_name,date_of_birth,nationality,marital_status,current_address,zip_code,city,phone,email,employer,occupation,annual_income,num_persons,has_pets,move_in_date,num_cars
+Müller,Hans,01.01.1985,Swiss,Single,Bahnhofstrasse 1,8001,Zürich,+41 79 123 45 67,hans.mueller@example.com,ABC Technologies AG,Software Engineer,95000,1,No,01.05.2025,1
+Schmidt,Maria,15.06.1990,German,Married,Hauptstrasse 42,3001,Bern,+41 79 987 65 43,maria.schmidt@example.com,XYZ Marketing GmbH,Marketing Manager,80000,3,Yes,01.06.2025,0
+Rossi,Luca,22.03.1978,Italian,Divorced,Seestrasse 88,8002,Zürich,+41 78 555 12 34,luca.rossi@example.com,Swiss Finance SA,Financial Analyst,110000,2,No,01.04.2025,2
